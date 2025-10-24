@@ -14,8 +14,8 @@ The portfolio includes detailed security documentation to show my understanding 
 The portfolio:<br>
 - Demonstrates my understanding of Git and docs-as-code.<br>
 - Demonstrates my understanding of RMF and DevSecOps.<br>
-- Combines an SSP and an SDD.<br>
-- Includes RMF control tailoring and integration points.<br>
+- Aligns SSP and architectural design document (SDD) sections.<br>
+- Includes RMF controls and integration points.<br>
 - Maps security practices to pipeline stages.<br>
 - Shows continuous monitoring for compliance.<br>
 
