@@ -1,7 +1,7 @@
 Project-Based Learning Portfolio by Shawn Blanchard<br>
 
 This portfolio:<br>
-- Demonstrates cATO (continuous Authorization to Operate) documentation knowledge with living security documentation. 
+- Demonstrates cATO (continuous Authorization to Operate) documentation knowledge. 
 - Bridges traditional RMF (risk managment framework) documentation and modern DevSecOps practices.<br>
 - Shows how automated evidence collection can feed compliance documentation.<br> 
 
