@@ -10,14 +10,14 @@ The portfolio includes detailed security documentation to show my understanding 
 - Docs-as-code principles.<br>
 - Git version control.<br>
 - CI/CD for automatic deployment.<br>
-- SAST/IAST/DAST methods.<br>
+- SAST/IAST/DAST methodology.<br>
 - The NIST 800-53 RMF.<br> 
 
 The portfolio:<br>
 - Demonstrates my understanding of Git and docs-as-code.<br>
 - Demonstrates my understanding of RMF and DevSecOps.<br>
-- Aligns SSP and architectural design document (SDD) sections.<br>
-- Includes RMF controls and integration points.<br>
+- Aligns system security plan (SSP) and software design document (SDD) sections.<br>
+- Includes RMF controls and architectural integration points.<br>
 - Maps security practices to pipeline stages.<br>
-- Shows continuous monitoring for compliance.<br>
+- Shows continuous monitoring for compliance snd risk management (GRC).<br>
 
