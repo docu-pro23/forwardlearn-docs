@@ -1,5 +1,4 @@
 Project-Based Learning Portfolio by Shawn Blanchard<br>
-DevSecOps cATO documentation portfolio using Git, Docusaurus, and NIST RMF<br>
 
 - This portfolio demonstrates cATO (continuous Authorization to Operate) documentation knowledge by implementing living security documentation. 
 - It bridges traditional RMF (risk managment framework) documentation and modern DevSecOps practices to show how automated evidence collection can feed compliance documentation.<br> 
