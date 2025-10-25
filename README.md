@@ -4,7 +4,7 @@ This portfolio:<br>
 - Demonstrates cATO (continuous Authorization to Operate) documentation knowledge. 
 - Bridges traditional risk
 management framework (RMF) documentation and modern DevSecOps practices.<br>
-- Shows how automated evidence collection can feed compliance documentation.<br> 
+- Shows how automated evidence collection can feed risk and compliance (GRC) documentation.<br> 
 
 The portfolio includes detailed security documentation to show my understanding of RMF controls, DevSecOps integration, and cATO concepts. It uses:<br>
 - Docs-as-code principles.<br>
@@ -19,5 +19,5 @@ The portfolio:<br>
 - Aligns system security plan (SSP) and software design document (SDD) sections.<br>
 - Includes RMF controls and architectural integration points.<br>
 - Maps security practices to pipeline stages.<br>
-- Shows continuous monitoring for compliance snd risk management (GRC).<br>
+- Shows how to document continuous monitoring for GRC purposes.<br>
 
