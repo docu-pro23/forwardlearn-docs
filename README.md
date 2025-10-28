@@ -1,4 +1,4 @@
-# Project-Based Learning Portfolio by Shawn Blanchard<br>
+# Project-Based Learning Portfolio by Shawn Blanchard
 
 This portfolio:<br>
 - Demonstrates cATO (continuous Authorization to Operate) documentation knowledge. 
