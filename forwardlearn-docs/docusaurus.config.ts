@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'ForwardLearn',
-  tagline: 'Dinosaurs are coDevSecOps, NIST RMF, and cATO',
+  tagline: 'Pipeline to Evidence: DevSecOps, NIST RMF, and cATO',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
