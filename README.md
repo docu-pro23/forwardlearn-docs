@@ -21,5 +21,4 @@ The portfolio:<br>
 - Maps security practices to pipeline stages.<br>
 - Shows how to document continuous monitoring for GRC purposes.<br>
 
-© 2025 docupro23 and Shawn K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc. Edit
-
+© 2025 docupro23 and Shawn K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc.
